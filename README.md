@@ -1,7 +1,7 @@
 ### Hi My name is Carlos 👋
 ##
 - 🔭 I’m currently a student.
-- ✔️ I have basic Knowledges of HTML5, CSS and JavaScript
+- ✔️ I have basic Knowledges of HTML5, CSS, JavaScript and PHP
 <div align="center">
   <a href="https://github.com/Csanz0" >
   <img  heigth="150em"src="https://github-readme-stats.vercel.app/api?username=Csanz0&show_icons=true&theme=aura&include_all_commits"/>
