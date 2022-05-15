@@ -5,7 +5,7 @@
 <div align="left">
   <a href="https://github.com/Csc32">
   <img  heigth="150em"src="https://github-readme-stats.vercel.app/api?username=Csc32&show_icons=true&theme=aura&include_all_commits"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csc320&layout=compact&lang_counts=10&theme=aura"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csc32&layout=compact&lang_counts=10&theme=aura"/>
     </a>
 </div>
 <div style="display: inline_block"> <br/>
