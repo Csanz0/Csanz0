@@ -5,13 +5,22 @@
   I have basic Knowledges of **_HTML5, CSS, JavaScript and PHP_** and I have made some projects with they.
 
 ___
-
+<!--
 <div align="center">
   <a href="https://github.com/Csc32">
   <img  heigth="180em"src="https://github-readme-stats.vercel.app/api?username=Csc32&show_icons=true&theme=aura&include_all_commits"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csc32&layout=compact&lang_counts=10&theme=aura"/>
     </a>
 </div>
+-->
+<div align="center">
+  <a href="https://github.com/Csc32">
+  <img  heigth="180em"src="https://github-readme-stats.vercel.app/api?username=Csc32&show_icons=true&theme=aura_dark&include_all_commits"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csc32&&lang_counts=10&theme=aura_dark"/>
+    </a>
+</div>
+
+
 
 ## Languages and Tools
 <div style="display: inline-block"> <br/>
