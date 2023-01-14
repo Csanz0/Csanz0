@@ -15,8 +15,8 @@ ___
 -->
 <div align="center">
   <a href="https://github.com/Csc32">
-  <img  heigth="180em"src="https://github-readme-stats.vercel.app/api?username=Csc32&show_icons=true&theme=aura_dark&include_all_commits"/>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csc32&&lang_counts=10&theme=aura_dark"/>
+  <img  heigth="180em"src="https://github-readme-stats-csc32.vercel.app/api?username=Csc32&show_icons=true&theme=aura_dark&count_private=false"/>
+   <img height="200em" src="https://github-readme-stats-csc32.vercel.app/api/top-langs/?username=Csc32&&lang_counts=10&theme=aura_dark&count_private=false"/>
     </a>
 </div>
 
@@ -28,7 +28,7 @@ ___
 <img height="80px" align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
 <img height="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img height="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-<img height="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img height="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img height="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />       
 <img height="80px" align='center'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img height="80px" align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
