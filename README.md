@@ -1,17 +1,18 @@
 # Hi My name is _Carlos_ 👋
 
-  Currently, I am a student of **Computing and English**. Everyday I try to improve my English and programming Skill.
+  Currently, I am a student of **Computing and English**. Every day I try to improve my English and programming Skills.
   
   I have knowledge in:
   
   - HTML and CSS 
-  - JavaSCript
+  - Javascript
   - PHP
   - Nodejs
   
-  And with frameworks, until the moment I have work with: 
+  And with frameworks, until the moment I have worked with: 
   - Bootstrap
   - Express
+  - Laravel
 
 ___
 ## My Github Stats ✌
