@@ -18,10 +18,14 @@ ___
 ## My Github Stats ✌
 <div align="center">
   <a href="https://github.com/Csc32">
+   <img height="300em" width='auto'src="https://github-readme-stats-git-master-csc32.vercel.app/api/?username=Csc32&&show&&theme=aura_dark&count_private=false&exclude_repo=github-readme-stats,anuraghazra.github.io,config-zsh"/>
+    </a>
+</div>
+<div align="center">
+  <a href="https://github.com/Csc32">
    <img height="450em" width='auto'src="https://github-readme-stats-git-master-csc32.vercel.app/api/top-langs/?username=Csc32&&layout=pie&&lang_counts=10&theme=aura_dark&count_private=false&exclude_repo=github-readme-stats,anuraghazra.github.io,config-zsh"/>
     </a>
 </div>
-
 
 
 ## Languages and Tools 🧰
