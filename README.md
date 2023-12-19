@@ -18,7 +18,7 @@ ___
 ## My Github Stats ✌
 <div align="center">
   <a href="https://github.com/Csc32">
-   <img height="200em" width='auto'src="https://github-readme-stats-git-master-csc32.vercel.app/api/top-langs/?username=Csc32&&layout=pie&&lang_counts=10&theme=aura_dark&count_private=false&exclude_repo=github-readme-stats,anuraghazra.github.io,config-zsh"/>
+   <img height="450em" width='auto'src="https://github-readme-stats-git-master-csc32.vercel.app/api/top-langs/?username=Csc32&&layout=pie&&lang_counts=10&theme=aura_dark&count_private=false&exclude_repo=github-readme-stats,anuraghazra.github.io,config-zsh"/>
     </a>
 </div>
 
@@ -31,10 +31,11 @@ ___
 <img height="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img height="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 <img height="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img height="80px" align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />   
 <img height="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />       
 <img height="80px" align='center'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img height="80px" align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-                    
+                 
 </div> 
 
 ## Social 😁
