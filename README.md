@@ -18,8 +18,7 @@ ___
 ## My Github Stats ✌
 <div align="center">
   <a href="https://github.com/Csc32">
-  <img  heigth="180em"src="https://github-readme-stats-beta-two-18.vercel.app/api?username=Csc32&show_icons=true&theme=aura_dark&count_private=false"/>
-   <img height="200em" src="https://github-readme-stats-beta-two-18.vercel.app/api/top-langs/?username=Csc32&&lang_counts=10&theme=aura_dark&count_private=false&exclude_repo=github-readme-stats,anuraghazra.github.io,config-zsh"/>
+   <img height="200em" src="http://github-readme-stats-csc32.vercel.app/api/top-langs/?username=Csc32&&layout=pie&&lang_counts=10&theme=aura_dark&count_private=false&exclude_repo=github-readme-stats,anuraghazra.github.io,config-zsh"/>
     </a>
 </div>
 
