@@ -20,7 +20,7 @@ My name is **Carlos**. Currently, I'm focusing on **web development**. Although,
 
 <div align="center">
   <a href="https://github.com/Csc32">
-   <img height="200em" width='auto'src="https://github-readme-stats-oyu2-bypc4jf3c-csc32s-projects.vercel.app/api/top-langs/?username=Csc32&&layout=compact&&lang_counts=10&theme=aura_dark&count_private=false&exclude_repo=github-readme-stats,anuraghazra.github.io,config-zsh"/>
+   <img height="200em" width='auto'src="https://github-readme-stats-csc32s-projects.vercel.app/api/top-langs/?username=Csc32&&layout=compact&&lang_counts=10&theme=aura_dark&count_private=false&exclude_repo=github-readme-stats,anuraghazra.github.io,config-zsh"/>
     </a>
 </div>
 
